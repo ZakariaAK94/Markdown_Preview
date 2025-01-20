@@ -9,8 +9,7 @@ This project is a Markdown Previewer built using React, allowing users to write 
 ## Demo
 
 Check out the live version of the app here:  
-[**Markdown Previewer - Live Demo**](https://ZakariaAK94.github.io/Markdown_Previewer/)
-
+[**Markdown Previewer - Live Demo**](https://ZakariaAK94.github.io/Markdown_Preview/)
 
 
 ---
