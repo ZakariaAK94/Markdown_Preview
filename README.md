@@ -1,7 +1,7 @@
 
-# Markdown Previewer
+# Markdown Preview
 
-This project is a Markdown Previewer built using React, allowing users to write Markdown in an editor and see a live preview of the rendered content. The previewer supports GitHub-flavored Markdown (GFM) and syntax highlighting for code blocks.
+This project is a Markdown Preview built using React, allowing users to write Markdown in an editor and see a live preview of the rendered content. The preview supports GitHub-flavored Markdown (GFM) and syntax highlighting for code blocks.
 
 
 ---
@@ -9,7 +9,7 @@ This project is a Markdown Previewer built using React, allowing users to write 
 ## Demo
 
 Check out the live version of the app here:  
-[**Markdown Previewer - Live Demo**](https://ZakariaAK94.github.io/Markdown_Preview/)
+[**Markdown Preview - Live Demo**](https://ZakariaAK94.github.io/Markdown_Preview/)
 
 
 ---
@@ -39,11 +39,11 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/ZakariaAK94/Markdown_Previewer.git
+   git clone https://github.com/ZakariaAK94/Markdown_Preview.git
    ```
 2. **Navigate to directory:**
    ```
-   cd Markdown_previewer
+   cd Markdown_Preview
    ```
 
 3. **Install dependencies:**
